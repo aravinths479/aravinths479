@@ -22,6 +22,7 @@ I maintain a repository with my solutions to various coding problems, including 
 - Database: MongoDB, SQL
 - Languages: Java, C, C++, Python
 - Version Control: Git
+- Command Line Interface
 
 
 ## Projects
