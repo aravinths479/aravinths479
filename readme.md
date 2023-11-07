@@ -18,21 +18,24 @@ I maintain a repository with my solutions to various coding problems, including 
 ## Technologies and Skills
 
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
-- Backend: NodeJs, ExpressJs
+- Backend: NodeJs, ExpressJs, Postman
 - Database: MongoDB, SQL
-- Languages: Java, C, C++, Python
+- Amazon Web Services, Docker
+- Web Security
+- Languages: Java(Proficient), C, C++, Python
 - Version Control: Git
-- Command Line Interface
+- Windows CLI,
 
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
-2. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
-3. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
-4. [Developer Search (Coming Soon)](https://github.com/aravinths479/Developer-Search)
+1. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
+2. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
+3. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
+4. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
+5. [Developer Search (Coming Soon)](https://github.com/aravinths479/Developer-Search)
    
 
 ## Contact
