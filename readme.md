@@ -1,4 +1,4 @@
-# Aravinth Subramanian
+ji# Aravinth Subramanian
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AravinthSubramanian-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aravinth-subramanian/)
 [![GitHub](https://img.shields.io/badge/GitHub-aravinths479-black?style=flat-square&logo=github)](https://github.com/aravinths479)
@@ -24,7 +24,7 @@ I maintain a repository with my solutions to various coding problems, including 
 - Web Security
 - Languages: Java(Proficient), C, C++, Python
 - Version Control: Git
-- Windows CLI,
+- Windows CLI
 
 
 ## Projects
