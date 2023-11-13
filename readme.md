@@ -1,4 +1,4 @@
-ji# Aravinth Subramanian
+# Aravinth Subramanian
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AravinthSubramanian-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aravinth-subramanian/)
 [![GitHub](https://img.shields.io/badge/GitHub-aravinths479-black?style=flat-square&logo=github)](https://github.com/aravinths479)
