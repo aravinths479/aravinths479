@@ -21,7 +21,7 @@ I maintain a repository with my solutions to various coding problems, including 
 - Backend: NodeJs, ExpressJs, Postman
 - Database: MongoDB, SQL
 - Amazon Web Services, Docker
-- Web Security
+- Web Security, Distributed Systems, Microservices
 - Languages: Java(Proficient), C, C++, Python
 - Version Control: Git
 - Windows CLI
