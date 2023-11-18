@@ -19,7 +19,7 @@ I maintain a repository with my solutions to various coding problems, including 
 
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
 - Backend: NodeJs, ExpressJs, Postman
-- Database: MongoDB, SQL
+- Database: MongoDB, MySQL
 - Amazon Web Services, Docker
 - Web Security, Distributed Systems, Microservices
 - Languages: Java(Proficient), C, C++, Python
