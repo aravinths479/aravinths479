@@ -11,7 +11,7 @@ Hello! 👋 I'm Aravinth, a passionate developer with experience in web developm
 
 You can find me on LeetCode at [leetcode.com/aravinths911](https://leetcode.com/aravinths911). I enjoy tackling LeetCode problems in Java to sharpen my algorithmic and problem-solving skills.
 
-## Java Problem Solutions
+## Problem Solutions
 
 I maintain a repository with my solutions to various coding problems, including LeetCode and other common practice problems. The solutions are implemented in Java. You can explore the solutions and code snippets in my [Problem Solutions](https://github.com/aravinths479/coding-Java) repository.
 
@@ -40,9 +40,9 @@ Here are some of the projects I've worked on:
 
 ## Contact
 
-- GitHub: [github.com/aravinths479](https://github.com/aravinths479)
-- LinkedIn: [linkedin.com/in/aravinth-subramanian](https://www.linkedin.com/in/aravinth-subramanian/)
-- Email: aravinths911@gmail.com
+- GitHub   : [github.com/aravinths479](https://github.com/aravinths479)
+- LinkedIn : [linkedin.com/in/aravinth-subramanian](https://www.linkedin.com/in/aravinth-subramanian/)
+- Email    : aravinths911@gmail.com
 
 ## Contributions and Collaboration
 
