@@ -20,7 +20,7 @@ I maintain a repository with my solutions to various coding problems, including 
 - Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
 - Backend: NodeJs, ExpressJs, Postman
 - Database: MongoDB, MySQL
-- Amazon Web Services, Docker
+- Amazon Web Services (AWS), Docker
 - Web Security, Distributed Systems, Microservices
 - Languages: Java(Proficient), C, C++, Python
 - Version Control: Git
@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 2. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
 3. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
 4. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
-5. [Developer Search (Coming Soon)](https://github.com/aravinths479/Developer-Search)
+5. [DataLoom - A Google Drive Clone  (comming soon)](https://github.com/aravinths479/DataLoom)
    
 
 ## Contact
