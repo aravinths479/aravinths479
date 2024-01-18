@@ -35,7 +35,7 @@ Here are some of the projects I've worked on:
 2. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
 3. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
 4. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
-5. [DataLoom - A Google Drive Clone  (comming soon)](https://github.com/aravinths479/DataLoom)
+5. [DataLoom - A Google Drive Clone  (comming soon)](https://github.com/aravinths479/Data-Loom)
    
 
 ## Contact
