@@ -26,24 +26,20 @@ I maintain a repository with my solutions to various coding problems, including 
 - Version Control: Git
 - Windows CLI
 
+## GitHub Stats
 
-<a> 
-    <a href="https://github.com/srikumar03"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aravinths479&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/aravinths479"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aravinths479&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
+[![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=aravinths479&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/aravinths479)
+[![Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aravinths479&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/aravinths479)
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
 2. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
+1. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
+5. [DataLoom - A Google Drive Clone](https://github.com/aravinths479/Data-Loom)
 3. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
 4. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
-5. [DataLoom - A Google Drive Clone](https://github.com/aravinths479/Data-Loom)
-   
 
 ## Contact
 
@@ -58,6 +54,5 @@ I'm always open to collaboration and contributions. If you'd like to contribute 
 ## Let's Connect!
 
 I'm excited to connect with fellow developers and learn from the community. If you find something interesting in my repositories, don't forget to star it! Let's learn and grow together.
-
 
 Happy coding! 🚀
