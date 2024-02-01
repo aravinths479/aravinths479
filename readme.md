@@ -28,16 +28,41 @@ I maintain a repository with my solutions to various coding problems, including 
 
 ## GitHub Stats
 
-<a> 
-   <div style="width: 100%; display: flex; justify-content: center;">
-    <a href="https://github.com/aravinths479">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aravinths479&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-             style="height: 192px; width: 350px;" />
-    </a>
+<style>
+    @media (min-width: 600px) {
+        .github-stats-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .github-stats-container a {
+            margin: 0 10px; /* Adjust the spacing between the images as needed */
+        }
+    }
+
+    @media (max-width: 599px) {
+        .github-stats-container a {
+            display: block;
+            margin: 10px auto; /* Adjust the spacing between the images as needed */
+        }
+    }
+</style>
+
+<div class="github-stats-container" style="width: 100%;">
+    <div style="width: 100%; display: flex; justify-content: center;">
+        <a href="https://github.com/aravinths479">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aravinths479&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+                 style="height: 192px; width: 350px;" />
+        </a>
+    </div>
+    <div style="width: 100%; display: flex; justify-content: center;">
+        <a href="https://github.com/srikumar03">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=srikumar03&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
+                 style="height: 192px; width: 250px;" />
+        </a>
+    </div>
 </div>
-    
-  <br/>
-</a>
+
 
 ## Projects
 
