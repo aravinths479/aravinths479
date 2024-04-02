@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! 👋 I'm Aravinth, a passionate developer with experience in web development and full-stack MERN (MongoDB, Express, React, Node.js) development. I enjoy building scalable and efficient applications using modern technologies.
+Hello! 👋 I'm Aravinth, a passionate developer with experience in web development and full-stack MERN (MongoDB, Express, React, Node.js) development. I enjoy building scalable and efficient cloud native applications using modern technologies.
 
 ## LeetCode Profile
 
@@ -13,7 +13,7 @@ You can find me on LeetCode at [leetcode.com/aravinths911](https://leetcode.com/
 
 ## Problem Solutions
 
-I maintain a repository with my solutions to various coding problems, including LeetCode and other common practice problems. The solutions are implemented in Java. You can explore the solutions and code snippets in my [Problem Solutions](https://github.com/aravinths479/coding-Java) repository.
+I maintain a repository with my solutions to various coding problems, including LeetCode and other common practice problems. The solutions are implemented in Java. You can explore the solutions and code snippets in my [Problem Solutions](https://github.com/aravinths479/Data-Structures-And-Algorithms) repository.
 
 ## Technologies and Skills
 
@@ -40,11 +40,12 @@ I maintain a repository with my solutions to various coding problems, including 
 
 Here are some of the projects I've worked on:
 
-2. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
-1. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
-5. [DataLoom - A Google Drive Clone](https://github.com/aravinths479/Data-Loom)
-3. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
-4. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
+1. [Automobile Finance](https://github.com/aravinths479/AutoMobileFinance-2)
+2. [Vegetable Supply Chain Management](https://github.com/aravinths479/Vegetable-Supply-Chain-Management)
+3. [DataLoom - A Google Drive Clone](https://github.com/aravinths479/Data-Loom)
+4. [Coding Club Website](https://github.com/aravinths479/coding-club-ctpg)
+5. [Event Ticket Booking](https://github.com/aravinths479/Event-Ticket-Booking)
+6. [Car Rental Application](https://github.com/aravinths479/Car-Rental-Mern)
 
 ## Contact
 
